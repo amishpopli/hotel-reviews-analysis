@@ -19,6 +19,8 @@ python app.py
 ```
 
 ## Step 3 - View notebooks - open anaconda prompt
+-EDA Hotel reviews - Has EDA on the hotel reviews and 2 actionable insights
+-Data prep and modelling - Has 2 machine learning models tfidf and bow
 
 ```cmd
 jupyter notebook
