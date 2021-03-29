@@ -6,7 +6,7 @@
 git clone https://github.com/amishpopli/perpetua-coding-challenge.git
 cd perpetua-coding-challenge
 conda env create -f environment.yml
-activate env
+activate pyamish
 ipython kernel install --user --name=pyamish
 python app.py
 ```
