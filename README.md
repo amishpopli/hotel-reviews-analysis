@@ -1,6 +1,6 @@
 # perpetua-coding-challenge
 
-## if you do not have conda installed, please follow these steps to install conda https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+If you do not have conda installed, please follow these steps to install conda https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 ## Step 1 - Setup python environment - open anaconda prompt
 
