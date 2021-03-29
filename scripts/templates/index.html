@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Upload data</title>
+    <body>
+        <h1>Please upload review</h1>
+        <hr>
+        <form method="post" action="{{ url_for('predict') }}">
+            <label for="rtext">Review Text</label><br>
+            <input type="text" id="rtext" name="rtext" size="200"><br>
+            <label for="rtitle">Review Title</label><br>
+            <input type="text" id="rtitle" name="rtitle"><br>
+            <label for="model">Choose a model:</label><br>
+            <select id="model" name="model">
+              <option value="tfidf">TFIDF</option>
+              <option value="bow">bow</option>
+            </select>
+        <br>
+        <br>
+        <button type="submit" class="btn btn-default">Predict score</button>
+        </form>
+        </hr>
+        <br>
+        <br>
+        {{ prediction_text}}
+    </body>
+</head>
+</html>
