@@ -1,3 +1,5 @@
 review_text,review_title,model,reviews_ratings
 worst night ever !!,did not like,bow,1.0
 ,worst night,tfidf,1.1369999999999998
+worst night ever !!,did not like,tfidf,1.0805
+"stay was amazing, i had a wonderful night",Definitely recommend,bow,4.898862302579953
