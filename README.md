@@ -1,4 +1,4 @@
-# perpetua-coding-challenge
+# hotel reviews analysis
 
 If you do not have conda installed, please follow these steps to install conda https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
